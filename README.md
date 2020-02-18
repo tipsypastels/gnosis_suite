@@ -14,4 +14,4 @@ Dragonsbreath is a high-level scripting language that transpiles into Pokeemeral
 Dragonsbreath2 is a rewrite of Dragonsbreath that introduces many new features and additional syntax sugar for shorter scripts.
 
 #### **Battlecry**
-Battlecry helps you quickly generate trainer teams.
+Battlecry lets you quickly and automagically generate parties for Pokemon trainers.
